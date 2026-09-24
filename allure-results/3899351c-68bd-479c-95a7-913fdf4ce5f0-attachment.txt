@@ -1,0 +1,13 @@
+APIResponse: 404 Not Found
+  Date: Mon, 31 Aug 2026 17:46:55 GMT
+  Content-Type: text/html
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: nginx
+  Vary: Accept-Encoding
+  Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none'
+  Content-Encoding: gzip

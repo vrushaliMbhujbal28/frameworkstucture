@@ -1,0 +1,2 @@
+Expected Product Count: 6
+Total Product Count: 6

@@ -1,0 +1,20 @@
+{
+    "crendentials": {
+        "validUsername": "standard_user",
+        "validPassword": "secret_sauce",
+        "lockedUsername": "locked_out_user",
+        "invalidUsername": "invalid_user",
+        "invalidPassword": "invalid_password"
+    },
+
+    "expectedMessages": {
+        "lockedOutUser": "Epic sadface: Sorry, this user has been locked out.",
+        "invalidUsername": "Epic sadface: Username and password do not match any user in this service",
+        "invalidPassword": "Epic sadface: Username and password do not match any user in this service"
+    } ,
+    
+    "product":{
+        "inventorycount": 6
+    }
+
+}

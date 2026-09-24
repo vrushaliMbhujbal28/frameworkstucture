@@ -1,0 +1,8 @@
+{
+  id: 78,
+  category: { id: 0, name: 'tony' },
+  name: 'doggie',
+  photoUrls: [ 'tony' ],
+  tags: [ { id: 0, name: 'tonyname' } ],
+  status: 'available'
+}
