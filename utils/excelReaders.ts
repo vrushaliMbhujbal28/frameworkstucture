@@ -6,10 +6,7 @@ export class ExcelReader {
        let filePath = path.join(process.cwd(),'testdata',fileName);
        let workbook = XLSX.readFile(filePath);
        let worksheet = workbook.Sheets[sheetName];
-             cd D:\frameworkstucture
-      dir
-      git status
-      git rev-parse --show-toplevel
+            
        if (!worksheet) {
           throw new Error(`Sheet "${sheetName}" not found in file "${fileName}".`);
        }    
